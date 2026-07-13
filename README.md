@@ -1,9 +1,5 @@
 # Sistem Pengingat Istirahat Otomatis K3 Menggunakan YOLOv8 dan ByteTrack: Analisis Komparatif POV
 
-![Python](https://img.shields.shields.io/badge/python-3.8%2B-blue.svg)
-![YOLOv8](https://img.shields.shields.io/badge/YOLOv8-Ultralytics-green.svg)
-![ByteTrack](https://img.shields.shields.io/badge/Object%20Tracking-ByteTrack-orange.svg)
-![K3 Digital](https://img.shields.shields.io/badge/Fokus-K3%20Digital-red.svg)
 
 Repositori ini berisi implementasi kode program untuk proyek sistem pengawasan Keselamatan dan Kesehatan Kerja (K3) Digital. Sistem ini dirancang untuk memantau durasi duduk pengguna komputer di ruang laboratorium secara *real-time* guna mencegah kelelahan fisik (*fatigue*) dan gangguan muskuloskeletal akibat kerja (*work-related musculoskeletal disorders*). 
 
